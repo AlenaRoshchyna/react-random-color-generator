@@ -35,10 +35,3 @@ export default function App() {
     </div>
   );
 }
-
-/* const hue = process.argv[2];
-const luminosity = process.argv[3];
-const color = randomColor({
-  luminosity: luminosity,
-  hue: hue,
-}); */
